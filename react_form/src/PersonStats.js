@@ -42,3 +42,5 @@ class PersonStats extends Component{
     }
     }
     export default PersonStats;
+
+// You don't have a variable or function called for your events and have multiple form tags in your render return. Make sure to correctly call your state variables in your constructor and create new functions to handle events.
